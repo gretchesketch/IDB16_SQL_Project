@@ -16,7 +16,7 @@ const db = mysql.createConnection(
     // MySQL username,
     user: 'root',
     // MySQL password
-    password: '',
+    password: 'y2ky2k',
     database: 'NBA_SQL_Spreadsheet'
   },
   console.log(`Connected to the NBA_SQL_Spreadsheet database.`)

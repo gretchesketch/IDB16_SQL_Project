@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gretchesketch/IDB16_SQL_Project#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
   }
 }

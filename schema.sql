@@ -1,8 +1,6 @@
-
--- Creates database --
 DROP DATABASE IF EXISTS NBA_SQL_Spreadsheet;
 CREATE DATABASE NBA_SQL_Spreadsheet;
--- Uses database --
+
 USE NBA_SQL_Spreadsheet;
 
 CREATE TABLE player_info (
@@ -10,13 +8,13 @@ CREATE TABLE player_info (
     player_name VARCHAR(24) CHARACTER SET utf8,
     team_abbreviation VARCHAR(3) CHARACTER SET utf8,
     age INT,
-    player_height NUMERIC(5, 2),
-    player_weight NUMERIC(9, 6),
-    college VARCHAR(39) CHARACTER SET utf8,
-    country VARCHAR(32) CHARACTER SET utf8,
-    draft_year VARCHAR(9) CHARACTER SET utf8,
-    draft_round VARCHAR(9) CHARACTER SET utf8,
-    draft_number VARCHAR(9) CHARACTER SET utf8,
+    player_height NUMERIC,
+    player_weight NUMERIC,
+    college VARCHAR CHARACTER SET utf8,
+    country VARCHAR CHARACTER SET utf8,
+    draft_year VARCHAR CHARACTER SET utf8,
+    draft_round VARCHAR CHARACTER SET utf8,
+    draft_number VARCHAR CHARACTER SET utf8,
     gp INT,
     pts NUMERIC(3, 1),
     reb NUMERIC(3, 1),
@@ -29,5 +27,7 @@ CREATE TABLE player_info (
     ast_pct NUMERIC(4, 3),
     season VARCHAR(7) CHARACTER SET utf8
 );
+
+
 
 

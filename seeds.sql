@@ -1,4 +1,5 @@
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (0,'Dennis Rodman','CHI',36,198.12,99.79024,'Southeastern Oklahoma State','USA','1986','2','27',55,5.7,16.1,3.1,16.1,0.186,0.323,0.1,0.479,0.113,'1996-97'),
     (1,'Dwayne Schintzius','LAC',28,215.9,117.93392,'Florida','USA','1990','1','24',15,2.3,1.5,0.3,12.3,0.078,0.151,0.175,0.43,0.048,'1996-97'),
     (2,'Earl Cureton','TOR',39,205.74,95.25432,'Detroit Mercy','USA','1979','3','58',9,0.8,1,0.4,-2.1,0.105,0.102,0.103,0.376,0.148,'1996-97'),
@@ -249,7 +250,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (247,'Sherman Douglas','MIL',30,185.42,88.45044,'Syracuse','USA','1989','2','28',79,9.7,2.4,5.4,-3,0.03,0.069,0.168,0.557,0.289,'1996-97'),
     (248,'Roy Rogers','VAN',23,208.28,106.59412,'Alabama','USA','1996','1','22',82,6.6,4.7,0.6,-13.6,0.088,0.155,0.154,0.518,0.042,'1996-97'),
     (249,'Ron Harper','CHI',33,198.12,97.975872,'Miami (OH)','USA','1986','1','8',76,6.3,2.5,2.5,14,0.03,0.091,0.127,0.543,0.152,'1996-97');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (250,'Randolph Childress','DET',24,187.96,85.275296,'Wake Forest','USA','1995','1','19',23,1.7,0.3,0.7,-0.9,0.008,0.037,0.176,0.448,0.205,'1996-97'),
     (251,'Randy Brown','CHI',29,187.96,86.18248,'New Mexico State','USA','1991','2','31',72,4.7,1.5,1.8,10.4,0.037,0.079,0.178,0.461,0.178,'1996-97'),
     (252,'Randy Livingston','HOU',22,193.04,94.800728,'Louisiana State','USA','1996','2','42',64,3.9,1.5,2.4,0.3,0.042,0.071,0.169,0.487,0.248,'1996-97'),
@@ -500,7 +502,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (497,'Keith Askins','MIA',30,203.2,101.604608,'Alabama','USA','Undrafted','Undrafted','Undrafted',46,2.4,2.2,0.6,5.5,0.051,0.13,0.108,0.426,0.065,'1997-98'),
     (498,'Kebu Stewart','PHI',24,203.2,108.408488,'Cal State-Bakersfield','USA','1997','2','35',15,2.7,2.1,0.1,11.7,0.087,0.212,0.173,0.541,0.03,'1997-98'),
     (499,'Karl Malone','UTA',34,205.74,116.119552,'Louisiana Tech','USA','1985','1','13',81,27,10.3,3.9,9.8,0.085,0.246,0.318,0.597,0.204,'1997-98');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (500,'Juwan Howard','WAS',25,205.74,108.86208,'Michigan','USA','1994','1','5',64,18.5,7,3.3,-0.6,0.07,0.137,0.233,0.515,0.135,'1997-98'),
     (501,'Jud Buechler','CHI',30,198.12,103.418976,'Arizona','USA','1990','2','38',74,2.7,1,0.7,-0.9,0.043,0.102,0.142,0.554,0.134,'1997-98'),
     (502,'Jon Barry','LAL',28,195.58,95.25432,'Georgia Tech','USA','1992','1','21',49,2.5,0.8,1,4.7,0.021,0.077,0.151,0.518,0.194,'1997-98'),
@@ -751,7 +754,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (747,'Anthony Parker','PHI',23,198.12,97.52228,'Bradley','USA','1997','1','21',37,1.9,0.7,0.5,-5,0.041,0.106,0.178,0.501,0.179,'1997-98'),
     (748,'Anthony Miller','ATL',26,205.74,115.66596,'Michigan State','USA','1994','2','39',37,2.1,1.9,0.1,-2.8,0.145,0.205,0.15,0.571,0.02,'1997-98'),
     (749,'Anthony Mason','CHH',31,203.2,113.398,'Tennessee State','USA','1988','3','53',81,12.8,10.2,4.2,2.5,0.07,0.247,0.162,0.552,0.174,'1997-98');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (750,'Adonal Foyle','GSW',23,208.28,113.398,'Colgate','St. Vincent & Grenadines','1997','1','8',55,3,3.3,0.3,-11.8,0.112,0.182,0.162,0.418,0.037,'1997-98'),
     (751,'Adrian Caldwell','DAL',31,203.2,120.20188,'Lamar','USA','Undrafted','Undrafted','Undrafted',1,0,0,0,18.5,0,0,0,0,0,'1997-98'),
     (752,'Alan Henderson','ATL',25,205.74,106.59412,'Indiana','USA','1995','1','16',69,14.3,6.4,1.1,3.4,0.116,0.134,0.234,0.534,0.068,'1997-98'),
@@ -1002,7 +1006,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (997,'Wesley Person','CLE',28,198.12,88.45044,'Auburn','USA','1994','1','23',45,11.2,3.2,1.8,-3.7,0.018,0.115,0.178,0.546,0.111,'1998-99'),
     (998,'Walter McCarty','BOS',25,208.28,104.32616,'Kentucky','USA','1996','1','19',32,5.7,3.6,1.3,1.2,0.059,0.133,0.161,0.448,0.093,'1998-99'),
     (999,'Walt Williams','POR',29,203.2,104.32616,'Maryland','USA','1992','1','7',48,9.3,3,1.7,9.8,0.041,0.113,0.196,0.566,0.132,'1998-99');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (1000,'Voshon Lenard','MIA',26,193.04,92.98636,'Minnesota','USA','1994','2','46',12,6.8,1.3,0.8,-13.5,0.027,0.088,0.241,0.489,0.115,'1998-99'),
     (1001,'Vladimir Stepania','SEA',23,213.36,107.047712,'None','Georgia','1998','1','27',23,5.5,3.3,0.5,-6.2,0.101,0.166,0.244,0.445,0.065,'1998-99'),
     (1002,'Vlade Divac','SAC',31,215.9,117.93392,'None','Serbia and Montenegro','1989','1','26',50,14.3,10,4.3,1.2,0.082,0.21,0.194,0.533,0.19,'1998-99'),
@@ -1253,7 +1258,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (1247,'Duane Causwell','MIA',31,213.36,115.66596,'Temple','USA','1990','1','18',19,2.3,1.8,0.1,-20.5,0.123,0.169,0.2,0.546,0.029,'1998-99'),
     (1248,'Duane Ferrell','GSW',34,200.66,97.52228,'Georgia Tech','USA','Undrafted','Undrafted','Undrafted',8,0.6,0.8,0,21.3,0.102,0.024,0.149,0.159,0,'1998-99'),
     (1249,'Dwayne Schintzius','BOS',30,218.44,129.27372,'Florida','USA','1990','1','24',16,0.7,1.2,0.5,-29.2,0.101,0.176,0.175,0.31,0.2,'1998-99');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (1250,'Earl Boykins','CLE',23,165.1,65.77084,'Eastern Michigan','USA','Undrafted','Undrafted','Undrafted',22,3,0.8,1.5,-10.8,0.037,0.058,0.22,0.405,0.303,'1998-99'),
     (1251,'Ed Gray','ATL',23,190.5,95.25432,'California','USA','1997','1','22',30,4.9,0.9,0.4,-12.5,0.022,0.079,0.304,0.368,0.083,'1998-99'),
     (1252,'Greg Anthony','POR',31,185.42,81.64656,'Nevada-Las Vegas','USA','1991','1','12',50,6.4,1.3,2,12.7,0.021,0.068,0.199,0.55,0.223,'1998-99'),
@@ -1504,7 +1510,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (1497,'Cuttino Mobley','HOU',24,193.04,86.18248,'Rhode Island','USA','1998','2','41',81,15.8,3.6,2.6,-1.6,0.028,0.099,0.24,0.545,0.148,'1999-00'),
     (1498,'Dale Davis','IND',31,210.82,104.32616,'Clemson','USA','1991','1','13',74,10,9.9,0.9,4.7,0.138,0.235,0.166,0.537,0.046,'1999-00'),
     (1499,'Dale Ellis','CHH',39,200.66,92.98636,'Tennessee','USA','1983','1','9',42,4.2,1.3,0.3,4.8,0.027,0.091,0.148,0.54,0.038,'1999-00');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (1500,'Damon Jones','DAL',23,190.5,83.91452,'Houston','USA','Undrafted','Undrafted','Undrafted',55,4.2,1,1.7,-7.8,0.019,0.079,0.186,0.508,0.242,'1999-00'),
     (1501,'Damon Stoudamire','POR',26,177.8,77.564232,'Arizona','USA','1995','1','7',78,12.5,3.1,5.2,7.4,0.031,0.085,0.212,0.508,0.269,'1999-00'),
     (1502,'Dan Majerle','MIA',34,198.12,100.697424,'Central Michigan','USA','1988','1','14',69,7.3,4.8,3,5.6,0.014,0.146,0.104,0.559,0.131,'1999-00'),
@@ -1755,7 +1762,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (1747,'Michael Ruffin','CHI',23,205.74,111.583632,'Tulsa','USA','1999','2','32',71,2.2,3.5,0.6,-8.1,0.142,0.168,0.111,0.45,0.082,'1999-00'),
     (1748,'Michael Smith','WAS',28,203.2,108.86208,'Providence','USA','1994','2','35',46,6.3,7.2,1.2,-6,0.119,0.208,0.108,0.611,0.074,'1999-00'),
     (1749,'Michael Stewart','TOR',25,208.28,104.32616,'California','USA','Undrafted','Undrafted','Undrafted',42,1.4,2.2,0.1,-7.5,0.086,0.2,0.094,0.432,0.024,'1999-00');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (1750,'Mike Bibby','VAN',22,187.96,86.18248,'Arizona','USA','1998','1','2',82,14.5,3.7,8.1,-6.4,0.028,0.089,0.2,0.521,0.35,'1999-00'),
     (1751,'Mikki Moore','DET',24,213.36,102.0582,'Nebraska','USA','Undrafted','Undrafted','Undrafted',29,7.9,3.9,0.6,14.4,0.122,0.152,0.181,0.671,0.057,'1999-00'),
     (1752,'Milt Palacio','VAN',22,190.5,88.45044,'Colorado State','Belize','Undrafted','Undrafted','Undrafted',53,2,1,0.9,-4.4,0.05,0.108,0.185,0.473,0.239,'1999-00'),
@@ -2006,7 +2014,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (1997,'Lawrence Funderburke','SAC',30,205.74,104.32616,'Ohio State','USA','1994','2','51',59,4.9,3.3,0.3,0.2,0.116,0.188,0.196,0.522,0.043,'2000-01'),
     (1998,'Lavor Postell','NYK',23,195.58,92.98636,'St. John''s (NY)','USA','2000','2','39',26,2.3,1,0.2,4.1,0.058,0.101,0.233,0.448,0.058,'2000-01'),
     (1999,'Latrell Sprewell','NYK',30,195.58,86.18248,'Alabama','USA','1992','1','24',77,17.7,4.5,3.5,2.1,0.02,0.116,0.258,0.497,0.172,'2000-01');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (2000,'Larry Robinson','ATL',33,190.5,81.64656,'Centenary (LA)','USA','Undrafted','Undrafted','Undrafted',34,5.9,2.6,1.1,-6.4,0.043,0.122,0.157,0.511,0.1,'2000-01'),
     (2001,'Larry Johnson','NYK',32,200.66,106.59412,'Nevada-Las Vegas','USA','1991','1','1',65,9.9,5.6,2,0,0.053,0.156,0.176,0.493,0.108,'2000-01'),
     (2002,'Larry Hughes','GSW',22,195.58,83.460928,'Saint Louis','USA','1998','1','8',50,16.5,5.5,4.5,-7.5,0.042,0.122,0.246,0.449,0.2,'2000-01'),
@@ -2257,7 +2266,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (2247,'Moochie Norris','HOU',28,185.42,79.3786,'West Florida','USA','1996','2','33',82,8.1,3,4.9,-6.1,0.037,0.091,0.178,0.471,0.302,'2001-02'),
     (2248,'P.J. Brown','CHH',32,210.82,108.408488,'Louisiana Tech','USA','1992','2','29',80,8.4,9.8,1.3,3.1,0.122,0.23,0.124,0.545,0.064,'2001-02'),
     (2249,'Mark Pope','MIL',29,208.28,106.59412,'Kentucky','USA','1996','2','52',45,1.9,1.6,0.4,-4.5,0.055,0.136,0.127,0.434,0.06,'2001-02');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (2250,'John Starks','UTA',36,195.58,86.18248,'Oklahoma State','USA','Undrafted','Undrafted','Undrafted',66,4.4,1,1.1,-1.1,0.019,0.069,0.184,0.442,0.132,'2001-02'),
     (2251,'Mark Jackson','NYK',37,190.5,88.45044,'St. John''s (NY)','USA','1987','1','18',82,8.4,3.8,7.4,-6.7,0.027,0.126,0.154,0.536,0.405,'2001-02'),
     (2252,'Kevin Ollie','IND',29,187.96,88.45044,'Connecticut','USA','Undrafted','Undrafted','Undrafted',81,5.7,2.3,3.6,-4.9,0.017,0.107,0.151,0.51,0.293,'2001-02'),
@@ -2508,7 +2518,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (2497,'Antoine Walker','BOS',25,205.74,111.13004,'Kentucky','USA','1996','1','6',81,22.1,8.8,5,3.7,0.047,0.186,0.277,0.49,0.224,'2001-02'),
     (2498,'Antonio Daniels','SAS',27,193.04,92.98636,'Bowling Green','USA','1997','1','4',82,9.2,2.1,2.8,7,0.013,0.078,0.166,0.534,0.176,'2001-02'),
     (2499,'Antonio Davis','TOR',33,205.74,104.32616,'Texas-El Paso','USA','1990','2','45',77,14.5,9.6,2,-0.3,0.095,0.192,0.196,0.497,0.087,'2001-02');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (2500,'Antonio Harvey','SEA',31,210.82,102.0582,'Pfeiffer','USA','Undrafted','Undrafted','Undrafted',5,1.8,1.8,1,-12.6,0.109,0.087,0.149,0.349,0.143,'2001-02'),
     (2501,'Brian Skinner','CLE',26,205.74,120.20188,'Baylor','USA','1998','1','22',65,3.4,4.3,0.3,-1.4,0.104,0.19,0.1,0.569,0.024,'2001-02'),
     (2502,'Brian Shaw','LAL',36,198.12,90.7184,'California-Santa Barbara','USA','1988','1','24',58,2.9,1.9,1.5,8,0.033,0.164,0.153,0.458,0.207,'2001-02'),
@@ -2759,7 +2770,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (2747,'Antonio Harvey','ATL',32,210.82,113.398,'Pfeiffer','USA','Undrafted','Undrafted','Undrafted',4,1,1.5,0,-8.5,0.045,0.179,0.098,0.4,0,'2002-03'),
     (2748,'Antonio Davis','TOR',34,205.74,104.32616,'Texas-El Paso','USA','1990','2','45',53,13.9,8.2,2.5,-3.7,0.077,0.188,0.214,0.483,0.115,'2002-03'),
     (2749,'Antonio Daniels','POR',28,193.04,92.98636,'Bowling Green','USA','1997','1','4',67,3.7,1.1,1.3,0.7,0.015,0.087,0.135,0.572,0.155,'2002-03');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (2750,'Antoine Rigaudeau','DAL',31,200.66,95.25432,'None','USA','Undrafted','Undrafted','Undrafted',11,1.5,0.7,0.5,-33.7,0.044,0.055,0.211,0.243,0.128,'2002-03'),
     (2751,'Dan Gadzuric','MIL',25,210.82,108.86208,'UCLA','Netherlands','2002','2','33',49,3.4,4,0.2,-2.3,0.099,0.198,0.119,0.498,0.018,'2002-03'),
     (2752,'Dan Langhi','PHX',25,210.82,99.79024,'Vanderbilt','USA','2000','2','31',60,3.1,1.5,0.4,11.1,0.039,0.148,0.192,0.434,0.061,'2002-03'),
@@ -3010,7 +3022,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (2997,'Keith Van Horn','PHI',27,208.28,115.66596,'Utah','USA','1997','1','2',74,15.9,7.1,1.3,1.9,0.079,0.188,0.232,0.556,0.068,'2002-03'),
     (2998,'Kelvin Cato','HOU',28,210.82,124.7378,'Iowa State','USA','1997','1','15',73,4.5,5.9,0.3,0.1,0.122,0.272,0.134,0.535,0.027,'2002-03'),
     (2999,'Ken Johnson','MIA',25,208.28,108.86208,'Ohio State','USA','2001','2','48',16,2,2,0,-5.9,0.031,0.187,0.139,0.404,0,'2002-03');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (3000,'Kendall Gill','MIN',35,195.58,97.52228,'Illinois','USA','1990','1','5',82,8.7,3,1.9,0.7,0.028,0.108,0.187,0.477,0.12,'2002-03'),
     (3001,'Kenny Anderson','NOH',32,185.42,76.203456,'Georgia Tech','USA','1991','1','2',61,6.1,2.2,3.2,-2.3,0.031,0.106,0.195,0.457,0.3,'2002-03'),
     (3002,'Kenny Satterfield','PHI',22,187.96,77.11064,'Cincinnati','USA','2001','2','53',39,3.4,1.1,1.7,-10.4,0.034,0.073,0.209,0.34,0.256,'2002-03'),
@@ -3261,7 +3274,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (3247,'Richard Jefferson','NJN',24,200.66,100.697424,'Arizona','USA','2001','1','13',82,18.5,5.7,3.8,4.8,0.041,0.134,0.227,0.573,0.18,'2003-04'),
     (3248,'Richard Hamilton','DET',26,200.66,87.543256,'Connecticut','USA','1999','1','7',78,17.6,3.6,4,6.9,0.033,0.082,0.253,0.522,0.212,'2003-04'),
     (3249,'Reggie Miller','IND',38,200.66,88.45044,'UCLA','USA','1987','1','11',80,10,2.4,3.1,10.2,0.009,0.087,0.15,0.6,0.181,'2003-04');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (3250,'Reggie Evans','SEA',24,203.2,111.13004,'Iowa','USA','Undrafted','Undrafted','Undrafted',75,2.9,5.4,0.4,-3.6,0.145,0.25,0.107,0.471,0.04,'2003-04'),
     (3251,'Reece Gaines','ORL',23,198.12,92.98636,'Louisville','USA','2003','1','15',38,1.8,1,1.1,-3,0.025,0.104,0.15,0.356,0.185,'2003-04'),
     (3252,'Ray Allen','SEA',28,195.58,92.98636,'Connecticut','USA','1996','1','5',56,23,5.1,4.8,1.5,0.038,0.118,0.278,0.566,0.223,'2003-04'),
@@ -3512,7 +3526,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (3497,'Fred Jones','IND',25,187.96,98.883056,'Oregon','USA','2002','1','14',81,4.9,1.6,2.1,2.3,0.02,0.082,0.145,0.527,0.203,'2003-04'),
     (3498,'Fred Hoiberg','MIN',31,195.58,95.25432,'Iowa State','USA','1995','2','52',79,6.7,3.4,1.4,4.5,0.014,0.156,0.126,0.611,0.095,'2003-04'),
     (3499,'Frank Williams','NYK',24,190.5,96.161504,'Illinois','USA','2002','1','25',56,3.9,0.9,2.2,4.6,0.014,0.07,0.198,0.478,0.277,'2003-04');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (3500,'Francisco Elson','DEN',28,213.36,106.59412,'California','Netherlands','1999','2','41',62,3.5,3.3,0.5,-1.2,0.083,0.178,0.13,0.498,0.06,'2003-04'),
     (3501,'Flip Murray','SEA',24,193.04,86.18248,'Shaw','USA','2002','2','41',82,12.4,2.5,2.5,-3.6,0.026,0.091,0.266,0.497,0.185,'2003-04'),
     (3502,'Etan Thomas','WAS',26,208.28,117.93392,'Syracuse','USA','2000','1','12',79,8.9,6.7,0.9,-8.5,0.106,0.209,0.178,0.538,0.066,'2003-04'),
@@ -3763,7 +3778,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (3747,'Kelvin Cato','ORL',30,210.82,124.7378,'Iowa State','USA','1997','1','15',62,7,6.7,0.6,2.7,0.077,0.221,0.122,0.6,0.039,'2004-05'),
     (3748,'Keith Van Horn','DAL',29,208.28,111.13004,'Utah','USA','1997','1','2',62,11.2,4.7,1.2,2,0.067,0.16,0.214,0.55,0.085,'2004-05'),
     (3749,'Keith McLeod','UTA',25,187.96,86.18248,'Bowling Green','USA','Undrafted','Undrafted','Undrafted',53,7.8,2.1,4.5,-5,0.017,0.084,0.189,0.44,0.282,'2004-05');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (3750,'Keith Bogans','CHA',25,195.58,97.52228,'Kentucky','USA','2003','2','43',74,9.6,3.1,1.8,-7.2,0.046,0.103,0.218,0.465,0.124,'2004-05'),
     (3751,'Kedrick Brown','PHI',24,200.66,100.697424,'Northwest Florida State','USA','2001','1','11',8,1.5,1.4,0.5,-26.4,0.022,0.227,0.119,0.577,0.154,'2004-05'),
     (3752,'Kareem Rush','CHA',24,198.12,97.52228,'Missouri','USA','2002','1','20',48,8.4,1.9,1.4,-7.3,0.022,0.086,0.22,0.471,0.121,'2004-05'),
@@ -4014,7 +4030,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (3997,'DeShawn Stevenson','ORL',25,195.58,95.25432,'None','USA','2000','1','23',82,11,2.9,2,-4.3,0.029,0.083,0.181,0.507,0.101,'2005-06'),
     (3998,'Dwyane Wade','MIA',24,193.04,96.161504,'Marquette','USA','2003','1','5',75,27.2,5.7,6.7,8.8,0.046,0.126,0.321,0.577,0.312,'2005-06'),
     (3999,'DeSagana Diop','DAL',24,213.36,127.00576,'None','Senegal','2001','1','8',81,2.3,4.6,0.3,9.5,0.121,0.18,0.07,0.512,0.022,'2005-06');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (4000,'Delonte West','BOS',22,193.04,81.64656,'Saint Joseph''s','USA','2004','1','24',71,11.8,4.1,4.6,1.3,0.029,0.113,0.163,0.574,0.213,'2005-06'),
     (4001,'Deng Gai','PHI',24,205.74,113.398,'Fairfield','Sudan (UK)','Undrafted','Undrafted','Undrafted',2,0,0,0,-29.1,0,0,0,0,0,'2005-06'),
     (4002,'DerMarr Johnson','DEN',26,205.74,95.25432,'Cincinnati','USA','2000','1','6',58,6.1,1.7,0.9,-1.9,0.023,0.096,0.179,0.545,0.095,'2005-06'),
@@ -4265,7 +4282,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (4247,'Reece Gaines','MIL',25,198.12,92.98636,'Louisville','USA','2003','1','15',12,1.1,0,0.3,-19.7,0,0,0.141,0.472,0.111,'2005-06'),
     (4248,'Reggie Evans','DEN',26,203.2,111.13004,'Iowa','USA','Undrafted','Undrafted','Undrafted',67,5.6,7.5,0.6,-8.4,0.144,0.302,0.144,0.519,0.042,'2005-06'),
     (4249,'Richard Hamilton','DET',28,200.66,87.543256,'Connecticut','USA','1999','1','7',80,20.1,3.2,3.4,9.2,0.036,0.072,0.276,0.553,0.183,'2005-06');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (4250,'Richard Jefferson','NJN',26,200.66,102.0582,'Arizona','USA','2001','1','13',78,19.5,6.8,3.8,3.9,0.036,0.168,0.22,0.603,0.175,'2005-06'),
     (4251,'Richie Frahm','HOU',28,195.58,95.25432,'Gonzaga','USA','Undrafted','Undrafted','Undrafted',33,3.3,1,0.6,-3.8,0.01,0.106,0.15,0.517,0.097,'2005-06'),
     (4252,'Rick Brunson','HOU',34,193.04,86.18248,'Temple','USA','Undrafted','Undrafted','Undrafted',27,2,0.8,1.3,-8.1,0.005,0.091,0.162,0.455,0.243,'2005-06'),
@@ -4516,7 +4534,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (4497,'Jeff McInnis','CHA',32,193.04,86.18248,'North Carolina','USA','1996','2','37',38,4.3,1.6,3.3,-7.5,0.024,0.087,0.156,0.423,0.276,'2006-07'),
     (4498,'Jeremy Richardson','POR',23,200.66,88.45044,'Delta State','USA','Undrafted','Undrafted','Undrafted',6,1.3,0.3,0,-5.6,0.071,0.067,0.142,0.667,0,'2006-07'),
     (4499,'Jermaine O''Neal','IND',28,210.82,117.93392,'None','USA','1996','1','17',69,19.4,9.6,2.4,-0.5,0.07,0.236,0.284,0.5,0.128,'2006-07');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (4500,'Jerome James','NYK',31,215.9,127.00576,'Florida A&M','USA','1998','2','36',41,1.9,1.6,0.1,-13.2,0.08,0.176,0.186,0.437,0.023,'2006-07'),
     (4501,'Jerry Stackhouse','DAL',32,198.12,98.883056,'North Carolina','USA','1995','1','3',67,12,2.2,2.8,7.3,0.029,0.079,0.244,0.537,0.195,'2006-07'),
     (4502,'Joe Johnson','ATL',26,200.66,106.59412,'Arkansas','USA','2001','1','10',57,25,4.2,4.4,-4,0.027,0.095,0.285,0.558,0.216,'2006-07'),
@@ -4767,7 +4786,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (4747,'Matt Bonner','SAS',27,208.28,108.86208,'Florida','USA','2003','2','45',56,4.9,2.8,0.4,2,0.115,0.172,0.201,0.542,0.061,'2006-07'),
     (4748,'Matt Carroll','CHA',26,198.12,96.161504,'Notre Dame','USA','Undrafted','Undrafted','Undrafted',72,12.1,2.9,1.3,-2.9,0.021,0.112,0.2,0.58,0.083,'2006-07'),
     (4749,'Matt Freije','ATL',25,205.74,112.944408,'Vanderbilt','USA','2004','2','53',19,2.1,1.3,0.4,1.8,0.055,0.127,0.179,0.353,0.088,'2006-07');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (4750,'Matt Harpring','UTA',31,200.66,102.0582,'Georgia Tech','USA','1998','1','15',77,11.6,4.6,1.3,4.7,0.072,0.151,0.204,0.564,0.083,'2006-07'),
     (4751,'Maurice Ager','DAL',23,195.58,91.625584,'Michigan State','USA','2006','1','28',32,2.2,0.7,0.2,-14.2,0.005,0.107,0.214,0.408,0.065,'2006-07'),
     (4752,'Maurice Evans','LAL',28,195.58,99.79024,'Texas','USA','Undrafted','Undrafted','Undrafted',76,8.4,2.9,1,0.3,0.064,0.087,0.176,0.523,0.07,'2006-07'),
@@ -5018,7 +5038,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (4997,'Anthony Johnson','SAC',33,190.5,88.45044,'College of Charleston','USA','1997','2','39',69,5.6,2,3.8,-3.4,0.017,0.086,0.136,0.517,0.268,'2007-08'),
     (4998,'Anthony Parker','TOR',33,198.12,97.52228,'Bradley','USA','1997','1','21',82,12.5,4.1,2.2,4,0.023,0.127,0.175,0.58,0.107,'2007-08'),
     (4999,'Antoine Walker','MIN',31,205.74,111.13004,'Kentucky','USA','1996','1','6',46,8,3.7,1,-5.1,0.068,0.146,0.224,0.455,0.085,'2007-08');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (5000,'Antoine Wright','DAL',24,200.66,97.52228,'Texas A&M','USA','2005','1','15',56,6.3,2.6,1.4,-6.3,0.038,0.099,0.155,0.488,0.113,'2007-08'),
     (5001,'Antonio McDyess','DET',33,205.74,111.13004,'Alabama','USA','1995','1','2',78,8.8,8.5,1.1,6.8,0.105,0.256,0.155,0.511,0.061,'2007-08'),
     (5002,'Arron Afflalo','DET',22,195.58,97.52228,'UCLA','USA','2007','1','27',75,3.7,1.8,0.7,7.7,0.044,0.121,0.149,0.494,0.086,'2007-08'),
@@ -5269,7 +5290,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (5247,'Marcin Gortat','ORL',24,213.36,108.86208,'None','Poland','2005','2','57',6,3,2.7,0.3,-0.3,0.2,0.25,0.223,0.491,0.08,'2007-08'),
     (5248,'Marco Belinelli','GSW',22,195.58,87.089664,'None','Italy','2007','1','18',33,2.9,0.4,0.5,-10.1,0.011,0.05,0.184,0.49,0.099,'2007-08'),
     (5249,'Marcus Banks','MIA',26,187.96,96.161504,'Nevada-Las Vegas','USA','2003','1','13',36,6.6,1.3,1.7,-6.4,0.008,0.078,0.201,0.579,0.179,'2007-08');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (5250,'Marcus Camby','DEN',34,210.82,106.59412,'Massachusetts','USA','1996','1','2',79,9.1,13.1,3.3,4.9,0.093,0.308,0.129,0.498,0.126,'2007-08'),
     (5251,'Marcus Vinicius','NOH',24,203.2,102.0582,'None','USA','2006','2','43',13,2.2,0.6,0.2,0.4,0.019,0.104,0.178,0.564,0.047,'2007-08'),
     (5252,'Marcus Williams','NJN',22,190.5,92.98636,'Connecticut','USA','2006','1','22',53,5.9,1.9,2.6,-11.2,0.019,0.124,0.212,0.499,0.285,'2007-08'),
@@ -5520,7 +5542,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (5497,'Metta World Peace','HOU',29,200.66,117.93392,'St. John''s (NY)','USA','1999','1','16',69,17.1,5.2,3.3,6.3,0.032,0.134,0.245,0.512,0.162,'2008-09'),
     (5498,'Martell Webster','POR',22,200.66,106.59412,'None','USA','2005','1','6',1,0,0,0,-42.7,0,0,0.085,0,0,'2008-09'),
     (5499,'Marvin Williams','ATL',23,205.74,108.86208,'North Carolina','USA','2005','1','2',61,13.9,6.3,1.3,0.3,0.062,0.153,0.183,0.569,0.064,'2008-09');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (5500,'Matt Barnes','PHX',29,200.66,102.511792,'UCLA','USA','2002','2','45',77,10.2,5.5,2.8,1.7,0.045,0.185,0.181,0.537,0.139,'2008-09'),
     (5501,'Matt Bonner','SAS',29,208.28,108.86208,'Florida','USA','2003','2','45',81,8.2,4.8,1,9.1,0.062,0.173,0.148,0.611,0.064,'2008-09'),
     (5502,'Matt Carroll','DAL',28,198.12,96.161504,'Notre Dame','USA','Undrafted','Undrafted','Undrafted',55,3,1.3,0.5,-12.1,0.013,0.121,0.162,0.451,0.078,'2008-09'),
@@ -5771,7 +5794,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (5747,'Amar''e Stoudemire','PHX',26,208.28,112.944408,'None','USA','2002','1','9',53,21.4,8.1,2,3.3,0.076,0.178,0.248,0.617,0.087,'2008-09'),
     (5748,'Al Jefferson','MIN',24,208.28,120.20188,'None','USA','2004','1','15',50,23.1,11,1.6,-4.6,0.107,0.246,0.288,0.532,0.082,'2008-09'),
     (5749,'Anthony Tolliver','SAS',24,203.2,108.86208,'Creighton','USA','Undrafted','Undrafted','Undrafted',19,2.7,2.2,0.9,-0.6,0.063,0.171,0.172,0.375,0.134,'2008-09');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (5750,'Andre Iguodala','PHI',25,198.12,93.893544,'Arizona','USA','2004','1','9',82,18.8,5.7,5.3,1.5,0.034,0.139,0.224,0.56,0.221,'2008-09'),
     (5751,'Antoine Wright','DAL',25,200.66,97.52228,'Texas A&M','USA','2005','1','15',65,7.3,2.1,1.2,3.2,0.023,0.08,0.156,0.501,0.071,'2008-09'),
     (5752,'Carlos Boozer','UTA',27,205.74,120.655472,'Duke','USA','2002','2','34',37,16.2,10.4,2.1,-2.2,0.108,0.282,0.242,0.523,0.11,'2008-09'),
@@ -6022,7 +6046,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (5997,'Deron Williams','UTA',26,190.5,93.893544,'Illinois','USA','2005','1','3',76,18.7,4,10.5,7.3,0.022,0.103,0.239,0.574,0.429,'2009-10'),
     (5998,'Derrick Rose','CHI',21,190.5,86.18248,'Memphis','USA','2008','1','1',78,20.8,3.8,6,-0.5,0.025,0.085,0.271,0.532,0.297,'2009-10'),
     (5999,'Desmond Mason','SAC',32,195.58,100.697424,'Oklahoma State','USA','2000','1','17',5,2.6,2.6,0.4,-28.6,0.058,0.205,0.127,0.472,0.051,'2009-10');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (6000,'Devean George','GSW',32,203.2,106.59412,'Augsburg','USA','1999','1','23',45,5.4,2.5,0.7,0.4,0.03,0.137,0.131,0.56,0.057,'2009-10'),
     (6001,'Devin Brown','CHI',31,195.58,95.25432,'Texas-San Antonio','USA','Undrafted','Undrafted','Undrafted',50,8,2.5,1.3,-1.1,0.029,0.098,0.196,0.5,0.095,'2009-10'),
     (6002,'Devin Harris','NJN',27,190.5,86.18248,'Wisconsin','USA','2004','1','5',64,16.9,3.2,6.6,-11.4,0.012,0.098,0.25,0.512,0.332,'2009-10'),
@@ -6273,7 +6298,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (6247,'DJ White','CHA',24,205.74,113.851592,'Indiana','USA','2008','1','29',47,5.7,3.4,0.4,-2.7,0.077,0.199,0.182,0.542,0.051,'2010-11'),
     (6248,'DaJuan Summers','DET',23,203.2,108.86208,'Georgetown','USA','2009','2','35',22,3.4,0.5,0.1,-4.6,0.013,0.062,0.217,0.476,0.017,'2010-11'),
     (6249,'Daequan Cook','OKC',24,195.58,95.25432,'Ohio State','USA','2007','1','21',43,5.6,1.7,0.5,7,0.017,0.123,0.16,0.63,0.055,'2010-11');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (6250,'Dahntay Jones','IND',30,198.12,95.25432,'Duke','USA','2003','1','20',45,6.3,1.4,0.7,-1.8,0.008,0.119,0.219,0.558,0.103,'2010-11'),
     (6251,'Cole Aldrich','OKC',22,210.82,111.13004,'Kansas','USA','2010','1','11',18,1,1.9,0.2,3.9,0.112,0.168,0.082,0.537,0.041,'2010-11'),
     (6252,'Damien Wilkins','ATL',31,198.12,102.0582,'Georgia','USA','Undrafted','Undrafted','Undrafted',52,3.5,1.7,0.8,-8.7,0.043,0.122,0.127,0.557,0.099,'2010-11'),
@@ -6524,7 +6550,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (6497,'Joel Przybilla','CHA',31,215.9,111.13004,'Minnesota','USA','2000','1','9',36,1.8,4,0.4,-8.1,0.087,0.246,0.078,0.573,0.038,'2010-11'),
     (6498,'Joey Dorsey','TOR',27,203.2,121.562656,'Memphis','USA','2008','2','33',43,3.1,4.4,0.6,-2,0.165,0.266,0.141,0.529,0.078,'2010-11'),
     (6499,'Joey Graham','CLE',29,200.66,104.32616,'Oklahoma State','USA','2005','1','16',39,5.2,2.2,0.5,-9.4,0.017,0.153,0.175,0.518,0.054,'2010-11');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (6500,'Johan Petro','NJN',25,213.36,112.037224,'None','France','2005','1','25',77,3.5,2.8,0.6,-6.4,0.083,0.208,0.187,0.452,0.088,'2010-11'),
     (6501,'John Lucas III','CHI',28,180.34,74.84268,'Oklahoma State','USA','Undrafted','Undrafted','Undrafted',2,1,0,0.5,-19.1,0,0,0.179,0.258,0.167,'2010-11'),
     (6502,'John Salmons','MIL',31,198.12,93.893544,'Miami (FL)','USA','2002','1','26',73,14,3.6,3.5,-1.5,0.012,0.112,0.209,0.51,0.179,'2010-11'),
@@ -6775,7 +6802,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (6747,'Charlie Villanueva','DET',27,210.82,105.233344,'Connecticut','USA','2005','1','7',13,7,3.7,0.5,-13.8,0.051,0.252,0.246,0.484,0.067,'2011-12'),
     (6748,'Charles Jenkins','GSW',23,190.5,99.79024,'Hofstra','USA','2011','2','44',51,5.8,1.3,3.3,-11.6,0.01,0.076,0.187,0.482,0.306,'2011-12'),
     (6749,'Channing Frye','PHX',29,210.82,111.13004,'Arizona','USA','2005','1','8',64,10.5,5.9,1.4,4.3,0.051,0.2,0.195,0.519,0.077,'2011-12');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (6750,'Chandler Parsons','HOU',23,205.74,102.965384,'Florida','USA','2011','2','38',63,9.5,4.8,2.1,2.7,0.058,0.136,0.166,0.513,0.114,'2011-12'),
     (6751,'Cartier Martin','WAS',27,200.66,99.79024,'Kansas State','USA','Undrafted','Undrafted','Undrafted',17,9.3,3.4,0.6,3.1,0.037,0.135,0.183,0.555,0.041,'2011-12'),
     (6752,'Caron Butler','LAC',32,200.66,103.418976,'Connecticut','USA','2002','1','10',63,12,3.7,1.2,7,0.028,0.116,0.204,0.501,0.065,'2011-12'),
@@ -7026,7 +7054,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (6997,'Solomon Jones','NOH',27,208.28,111.13004,'South Florida','USA','2006','2','33',21,3.2,2.8,0.4,-22.4,0.122,0.112,0.138,0.471,0.056,'2011-12'),
     (6998,'Spencer Hawes','PHI',24,215.9,111.13004,'Washington','USA','2007','1','10',37,9.6,7.3,2.6,3.7,0.094,0.234,0.199,0.517,0.169,'2011-12'),
     (6999,'Stephen Curry','GSW',24,190.5,83.91452,'Davidson','USA','2009','1','7',26,14.7,3.4,5.3,5.4,0.023,0.111,0.235,0.605,0.295,'2011-12');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (7000,'Stephen Jackson','SAS',34,203.2,99.79024,'Butler Community College','USA','1997','2','42',47,9.8,3.5,2.5,2,0.021,0.136,0.215,0.485,0.151,'2011-12'),
     (7001,'Steve Blake','LAL',32,190.5,78.017824,'Maryland','USA','2003','2','38',53,5.2,1.6,3.3,0.2,0.009,0.067,0.131,0.493,0.216,'2011-12'),
     (7002,'Steve Nash','PHX',38,190.5,80.739376,'Santa Clara','Canada','1996','1','15',62,12.5,3,10.7,3.8,0.016,0.088,0.194,0.625,0.491,'2011-12'),
@@ -7277,7 +7306,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (7247,'Tiago Splitter','SAS',28,210.82,108.86208,'None','Brazil','2007','1','28',81,10.3,6.4,1.6,10.3,0.09,0.201,0.183,0.609,0.099,'2012-13'),
     (7248,'Tim Duncan','SAS',37,210.82,115.66596,'Wake Forest','US Virgin Islands','1997','1','1',69,17.8,9.9,2.7,10.5,0.075,0.287,0.279,0.554,0.151,'2012-13'),
     (7249,'Tim Ohlbrecht','HOU',24,210.82,115.66596,'None','Germany','Undrafted','Undrafted','Undrafted',3,1,0.3,0.3,-33.4,0,0.1,0.287,0.436,0.25,'2012-13');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (7250,'Timofey Mozgov','DEN',26,215.9,113.398,'None','Russia','Undrafted','Undrafted','Undrafted',41,2.6,2.6,0.2,-7.2,0.146,0.16,0.146,0.549,0.039,'2012-13'),
     (7251,'Tobias Harris','ORL',20,203.2,102.511792,'Tennessee','USA','2011','1','19',55,11,5.2,1.3,-7.8,0.06,0.188,0.218,0.527,0.087,'2012-13'),
     (7252,'Toney Douglas','SAC',27,187.96,83.91452,'Florida State','USA','2009','1','29',71,7.5,1.9,2.1,3.1,0.03,0.093,0.197,0.531,0.176,'2012-13'),
@@ -7528,7 +7558,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (7497,'Jameer Nelson','ORL',31,182.88,86.18248,'Saint Joseph''s','USA','2004','1','20',56,14.7,3.7,7.4,-4.9,0.013,0.107,0.226,0.498,0.326,'2012-13'),
     (7498,'Isaiah Thomas','SAC',24,175.26,83.91452,'Washington','USA','2011','2','60',79,13.9,2,4,-4.1,0.015,0.074,0.228,0.574,0.243,'2012-13'),
     (7499,'DeJuan Blair','SAS',24,200.66,122.46984,'Pittsburgh','USA','2009','2','37',61,5.4,3.8,0.7,-1.4,0.091,0.213,0.187,0.543,0.084,'2012-13');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (7500,'DeAndre Liggins','OKC',25,198.12,94.800728,'Kentucky','USA','2011','2','53',39,1.5,1.4,0.4,-2.9,0.05,0.155,0.109,0.528,0.077,'2012-13'),
     (7501,'DeAndre Jordan','LAC',24,210.82,120.20188,'Texas A&M','USA','2008','2','35',82,8.8,7.2,0.3,7.3,0.129,0.232,0.16,0.606,0.02,'2012-13'),
     (7502,'Arnett Moultrie','PHI',22,208.28,111.13004,'Mississippi State','USA','2012','1','27',47,3.7,3.1,0.2,-7.5,0.152,0.151,0.14,0.595,0.031,'2012-13'),
@@ -7779,7 +7810,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (7747,'Tyler Zeller','CLE',24,213.36,114.758776,'North Carolina','USA','2012','1','17',70,5.7,4,0.5,-0.2,0.112,0.191,0.172,0.581,0.055,'2013-14'),
     (7748,'Tyler Hansbrough','TOR',28,205.74,113.398,'North Carolina','USA','2009','1','13',64,4.9,4.5,0.3,0.1,0.143,0.211,0.148,0.562,0.029,'2013-14'),
     (7749,'Vitor Faverani','BOS',26,210.82,117.93392,'None','Brazil','Undrafted','Undrafted','Undrafted',37,4.4,3.5,0.4,-9.4,0.097,0.195,0.191,0.502,0.059,'2013-14');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (7750,'Ty Lawson','DEN',26,180.34,88.45044,'North Carolina','USA','2009','1','18',62,17.6,3.5,8.8,-1.6,0.02,0.085,0.225,0.554,0.369,'2013-14'),
     (7751,'Tristan Thompson','CLE',23,205.74,107.954896,'Texas','Canada','2011','1','4',82,11.7,9.2,0.9,-4.9,0.114,0.218,0.175,0.528,0.044,'2013-14'),
     (7752,'Trey Burke','UTA',21,185.42,86.18248,'Michigan','USA','2013','1','9',70,12.8,3,5.7,-6.4,0.018,0.09,0.219,0.473,0.28,'2013-14'),
@@ -8030,7 +8062,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (7997,'Eric Maynor','PHI',27,190.5,79.3786,'Virginia Commonwealth','USA','2009','1','20',31,2.6,1.3,1.7,-26.5,0.03,0.113,0.184,0.387,0.291,'2013-14'),
     (7998,'Eric Gordon','NOP',25,193.04,97.52228,'Indiana','USA','2008','1','7',64,15.4,2.6,3.3,-6.2,0.016,0.079,0.229,0.54,0.164,'2013-14'),
     (7999,'Devin Harris','DAL',31,190.5,87.089664,'Wisconsin','USA','2004','1','5',40,7.9,2.1,4.5,11.2,0.012,0.108,0.203,0.517,0.312,'2013-14');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (8000,'Dewayne Dedmon','ORL',24,213.36,115.66596,'Southern California','USA','Undrafted','Undrafted','Undrafted',31,3.1,4.1,0.2,-10.2,0.114,0.288,0.132,0.5,0.021,'2013-14'),
     (8001,'Dexter Pittman','ATL',26,210.82,129.27372,'Texas','USA','2010','2','32',2,0,1.5,0,2.8,0.6,0,0.273,0,0,'2013-14'),
     (8002,'Diante Garrett','UTA',25,193.04,86.18248,'Iowa State','USA','Undrafted','Undrafted','Undrafted',71,3.5,1.4,1.7,-6.1,0.012,0.095,0.152,0.459,0.183,'2013-14'),
@@ -8281,7 +8314,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (8247,'Jason Maxiell','CHA',32,200.66,117.93392,'Cincinnati','USA','2005','1','26',61,3.3,3.3,0.3,-8.6,0.1,0.146,0.128,0.455,0.036,'2014-15'),
     (8248,'Jason Richardson','PHI',34,198.12,102.0582,'Michigan State','USA','2001','1','5',19,9.1,3.5,2,-8,0.03,0.142,0.218,0.458,0.171,'2014-15'),
     (8249,'James Young','BOS',19,198.12,97.52228,'Kentucky','USA','2014','1','17',31,3.4,1.4,0.4,-2.9,0.027,0.11,0.153,0.457,0.059,'2014-15');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (8250,'Jason Smith','NYK',29,213.36,111.13004,'Colorado State','USA','2007','1','20',82,8,4,1.7,-13.4,0.062,0.152,0.196,0.497,0.134,'2014-15'),
     (8251,'Malcolm Lee','PHI',25,195.58,90.7184,'UCLA','USA','2011','2','43',1,0,0,0,66.7,0,0,0.192,0,0,'2014-15'),
     (8252,'Jeff Adrien','HOU',29,201,111,'Connecticut','USA','Undrafted','Undrafted','Undrafted',17,3.5,4.5,0.9,-4.8,0.107,0.278,0.137,0.494,0.104,'2014-15'),
@@ -8532,7 +8566,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (8497,'Archie Goodwin','PHX',20,195.58,89.811216,'Kentucky','USA','2013','1','29',41,5.6,1.8,1.1,-15.4,0.049,0.1,0.23,0.486,0.149,'2014-15'),
     (8498,'Anthony Morrow','OKC',29,195.58,95.25432,'Georgia Tech','USA','Undrafted','Undrafted','Undrafted',74,10.7,2.6,0.8,4.4,0.024,0.09,0.164,0.604,0.05,'2014-15'),
     (8499,'Earl Clark','BKN',27,208.28,106.140528,'Louisville','USA','2009','1','14',10,2.7,2.3,0.3,-14.1,0.011,0.234,0.176,0.425,0.058,'2014-15');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (8500,'AJ Price','CLE',28,187.96,88.45044,'Connecticut','USA','2009','2','52',26,5.1,1.2,1.8,-12.2,0.019,0.096,0.226,0.451,0.254,'2014-15'),
     (8501,'Aaron Brooks','CHI',30,182.88,73.028312,'Oregon','USA','2007','1','26',82,11.6,2,3.2,5.2,0.019,0.078,0.252,0.534,0.245,'2014-15'),
     (8502,'Aaron Gordon','ORL',19,205.74,99.79024,'Arizona','USA','2014','1','4',47,5.2,3.6,0.7,-5.6,0.064,0.171,0.156,0.517,0.064,'2014-15'),
@@ -8783,7 +8818,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (8747,'Zach LaVine','MIN',21,195.58,85.728888,'UCLA','USA','2014','1','13',82,14,2.8,3.1,-5.5,0.014,0.1,0.233,0.548,0.187,'2015-16'),
     (8748,'Xavier Munford','MEM',24,190.5,81.64656,'Rhode Island','USA','Undrafted','Undrafted','Undrafted',14,5.7,2.2,1.6,-9.5,0.013,0.144,0.172,0.481,0.136,'2015-16'),
     (8749,'Willie Reed','BKN',26,208.28,99.79024,'Saint Louis','USA','Undrafted','Undrafted','Undrafted',39,4.7,3.1,0.3,-7.9,0.132,0.206,0.18,0.579,0.039,'2015-16');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (8750,'Willie Cauley-Stein','SAC',22,213.36,108.86208,'Kentucky','USA','2015','1','6',66,7,5.3,0.6,-2.7,0.105,0.166,0.133,0.588,0.038,'2015-16'),
     (8751,'Will Barton','DEN',25,198.12,79.3786,'Memphis','USA','2012','2','40',82,14.4,5.8,2.5,-3.5,0.028,0.202,0.231,0.535,0.147,'2015-16'),
     (8752,'Wesley Matthews','DAL',29,195.58,99.79024,'Marquette','USA','Undrafted','Undrafted','Undrafted',78,12.5,3.1,1.9,2.7,0.011,0.089,0.174,0.532,0.088,'2015-16'),
@@ -9034,7 +9070,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (8997,'John Henson','MIL',25,210.82,103.872568,'North Carolina','USA','2012','1','14',57,7,3.9,0.9,-4.8,0.105,0.152,0.192,0.58,0.096,'2015-16'),
     (8998,'Amar''e Stoudemire','MIA',33,208.28,111.13004,'None','USA','2002','1','9',52,5.8,4.3,0.5,1.8,0.101,0.229,0.18,0.599,0.054,'2015-16'),
     (8999,'Joffrey Lauvergne','DEN',24,210.82,99.79024,'None','France','2013','2','55',59,7.9,4.9,0.9,-9.7,0.083,0.232,0.199,0.567,0.093,'2015-16');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (9000,'Aaron Harrison','CHA',21,198.12,95.25432,'Kentucky','USA','Undrafted','Undrafted','Undrafted',21,0.9,0.7,0.1,2.2,0.047,0.133,0.138,0.371,0.033,'2015-16'),
     (9001,'Adreian Payne','MIN',25,208.28,107.501304,'Michigan State','USA','2014','1','15',52,2.5,2.1,0.6,-10.8,0.049,0.22,0.18,0.422,0.093,'2015-16'),
     (9002,'Al Horford','ATL',30,208.28,111.13004,'Florida','Dominican Republic','2007','1','3',82,15.2,7.3,3.2,4.9,0.062,0.18,0.206,0.565,0.165,'2015-16'),
@@ -9285,7 +9322,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (9247,'Lucas Nogueira','TOR',24,213.36,99.79024,'None','Brazil','2013','1','16',57,4.4,4.3,0.7,9.8,0.084,0.158,0.095,0.682,0.053,'2016-17'),
     (9248,'Luis Scola','BKN',37,205.74,109.315672,'None','Argentina','2002','2','55',36,5.1,3.9,1,-8,0.114,0.213,0.185,0.55,0.124,'2016-17'),
     (9249,'Luke Babbitt','MIA',28,205.74,102.0582,'Nevada','USA','2010','1','16',68,4.8,2.1,0.5,1.8,0.013,0.132,0.133,0.563,0.049,'2016-17');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (9250,'Luol Deng','LAL',32,205.74,99.79024,'Duke','United Kingdom','2004','1','7',56,7.6,5.3,1.3,-6.4,0.044,0.172,0.143,0.47,0.073,'2016-17'),
     (9251,'Malachi Richardson','SAC',21,198.12,92.98636,'Syracuse','USA','2016','1','22',22,3.6,1,0.5,-4.2,0.018,0.106,0.196,0.517,0.092,'2016-17'),
     (9252,'Malcolm Brogdon','MIL',24,195.58,97.52228,'Virginia','USA','2016','2','36',75,10.2,2.8,4.2,2.7,0.028,0.097,0.186,0.555,0.239,'2016-17'),
@@ -9536,7 +9574,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (9497,'Joe Young','IND',25,187.96,81.64656,'Oregon','USA','2015','2','43',33,2.1,0.5,0.5,-26.1,0.007,0.133,0.26,0.433,0.203,'2016-17'),
     (9498,'Jameer Nelson','DEN',35,182.88,86.18248,'Saint Joseph''s','USA','2004','1','20',75,9.2,2.6,5.1,1.1,0.015,0.089,0.157,0.544,0.258,'2016-17'),
     (9499,'Dorian Finney-Smith','DAL',24,203.2,99.79024,'Florida','USA','Undrafted','Undrafted','Undrafted',81,4.3,2.7,0.8,-1.4,0.037,0.124,0.117,0.486,0.061,'2016-17');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (9500,'Jamal Murray','DEN',20,193.04,93.893544,'Kentucky','Canada','2016','1','7',82,9.9,2.6,2.1,1,0.026,0.104,0.216,0.518,0.142,'2016-17'),
     (9501,'Jakob Poeltl','TOR',21,213.36,104.32616,'Utah','Austria','2016','1','9',54,3.1,3.1,0.2,0.3,0.137,0.169,0.121,0.589,0.03,'2016-17'),
     (9502,'Georgios Papagiannis','SAC',19,215.9,108.86208,'None','Greece','2016','1','13',22,5.6,3.9,0.9,-6.2,0.09,0.183,0.169,0.573,0.085,'2016-17'),
@@ -9787,7 +9826,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (9747,'Jerryd Bayless','PHI',29,190.5,90.7184,'Arizona','USA','2008','1','11',39,7.9,2.1,1.4,-3.4,0.016,0.066,0.146,0.546,0.085,'2017-18'),
     (9748,'Jerian Grant','CHI',25,193.04,89.811216,'Notre Dame','USA','2015','1','19',74,8.4,2.3,4.6,-7.1,0.017,0.084,0.172,0.528,0.314,'2017-18'),
     (9749,'Jeremy Lin','BKN',29,190.5,90.7184,'Harvard','USA','Undrafted','Undrafted','Undrafted',1,18,0,4,-9.5,0,0,0.254,0.597,0.235,'2017-18');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (9750,'Jeremy Lamb','CHA',26,195.58,83.91452,'Connecticut','USA','2012','1','12',80,12.9,4.1,2.3,1.3,0.024,0.14,0.22,0.559,0.154,'2017-18'),
     (9751,'Jeremy Evans','ATL',30,205.74,90.7184,'Western Kentucky','USA','2010','2','55',1,2,1,0,-23.1,0.143,0,0.143,1,0,'2017-18'),
     (9752,'Jerami Grant','OKC',24,205.74,99.79024,'Syracuse','USA','2014','2','39',81,8.4,3.9,0.7,1.7,0.05,0.14,0.161,0.607,0.055,'2017-18'),
@@ -10038,7 +10078,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (9997,'Jordan Crawford','NOP',29,195.58,88.45044,'Xavier','USA','2010','1','27',5,6.6,0.8,2.6,-14.5,0.036,0.036,0.23,0.601,0.351,'2017-18'),
     (9998,'LaMarcus Aldridge','SAS',32,210.82,117.93392,'Texas','USA','2006','1','2',75,23.1,8.5,2,5.4,0.098,0.156,0.288,0.57,0.111,'2017-18'),
     (9999,'Lance Stephenson','IND',27,198.12,104.32616,'Cincinnati','USA','2010','2','40',82,9.2,5.2,2.9,-3.2,0.033,0.203,0.208,0.495,0.186,'2017-18');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (10000,'Lance Thomas','NYK',30,203.2,106.59412,'Duke','USA','Undrafted','Undrafted','Undrafted',73,4.1,2.4,0.6,-5.9,0.033,0.098,0.106,0.513,0.044,'2017-18'),
     (10001,'Langston Galloway','DET',26,187.96,90.7184,'None','USA','Undrafted','Undrafted','Undrafted',58,6.2,1.6,1,4.2,0.014,0.089,0.188,0.503,0.105,'2017-18'),
     (10002,'Kawhi Leonard','SAS',27,200.66,104.32616,'San Diego State','USA','2011','1','15',9,16.2,4.7,2.3,3.9,0.029,0.159,0.304,0.572,0.191,'2017-18'),
@@ -10289,7 +10330,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (10247,'Tyler Zeller','MEM',29,213.36,114.758776,'North Carolina','USA','2012','1','17',6,7.7,4,0.7,6.7,0.105,0.123,0.191,0.607,0.069,'2018-19'),
     (10248,'Tyler Ulis','CHI',23,177.8,72.57472,'Kentucky','USA','2016','2','34',1,0,0,0,0,0,0,0,0,0,'2018-19'),
     (10249,'Tyler Lydon','DEN',23,208.28,102.0582,'Syracuse','USA','2017','1','24',25,0.9,0.7,0.2,-8.3,0.062,0.133,0.097,0.595,0.087,'2018-19');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (10250,'Tyler Johnson','PHX',27,193.04,86.18248,'Fresno State','USA','Undrafted','Undrafted','Undrafted',57,10.9,3,2.9,-4,0.021,0.087,0.18,0.532,0.165,'2018-19'),
     (10251,'Tyler Dorsey','MEM',23,195.58,83.007336,'Oregon','USA','2017','2','41',48,6.2,2.4,1.2,-2,0.036,0.118,0.182,0.509,0.118,'2018-19'),
     (10252,'Tyler Davis','OKC',22,208.28,120.655472,'None','USA','Undrafted','Undrafted','Undrafted',1,0,1,0,0,0.5,0,0.333,0,0,'2018-19'),
@@ -10540,7 +10582,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (10497,'Nene','HOU',36,210.82,113.398,'None','Brazil','2002','1','7',42,3.6,2.9,0.6,9.2,0.058,0.152,0.114,0.552,0.07,'2018-19'),
     (10498,'Nerlens Noel','OKC',25,210.82,99.79024,'Kentucky','USA','2013','1','6',77,4.9,4.2,0.6,-2.6,0.105,0.176,0.137,0.608,0.067,'2018-19'),
     (10499,'Nick Young','DEN',34,200.66,95.25432,'USC','USA','2007','1','16',4,2.3,0.3,0.5,-5.1,0,0.026,0.126,0.5,0.077,'2018-19');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (10500,'Nicolas Batum','CHA',30,203.2,90.7184,'None','France','2008','1','25',75,9.3,5.2,3.3,-0.5,0.028,0.131,0.129,0.581,0.145,'2018-19'),
     (10501,'Nik Stauskas','CLE',25,198.12,92.98636,'Michigan','Canada','2014','1','8',68,5.9,1.9,1.2,-12.9,0.016,0.104,0.171,0.545,0.123,'2018-19'),
     (10502,'Nikola Jokic','DEN',24,213.36,113.398,'None','Serbia','2014','2','41',80,20.1,10.8,7.3,5.8,0.089,0.249,0.271,0.589,0.361,'2018-19'),
@@ -10791,7 +10834,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (10747,'Kyle Anderson','MEM',26,205.74,104.32616,'UCLA','USA','2014','1','30',67,5.8,4.3,2.4,-3,0.042,0.151,0.134,0.534,0.163,'2019-20'),
     (10748,'Kyle Alexander','MIA',23,208.28,97.975872,'Tennessee','Canada','Undrafted','Undrafted','Undrafted',2,1,1.5,0,-6.7,0.111,0.067,0.079,0.5,0,'2019-20'),
     (10749,'Ky Bowman','GSW',23,185.42,84.821704,'Boston College','USA','Undrafted','Undrafted','Undrafted',45,7.4,2.7,2.9,-8.4,0.022,0.093,0.168,0.494,0.202,'2019-20');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (10750,'Kristaps Porzingis','DAL',24,220.98,108.86208,'None','Latvia','2015','1','4',57,20.4,9.5,1.8,6.9,0.052,0.221,0.263,0.551,0.088,'2019-20'),
     (10751,'Kris Dunn','CHI',26,190.5,92.98636,'Providence','USA','2016','1','5',51,7.3,3.6,3.4,-0.1,0.017,0.132,0.145,0.51,0.198,'2019-20'),
     (10752,'Kostas Antetokounmpo','LAL',22,208.28,90.7184,'Dayton','Greece','2018','2','60',5,1.4,0.6,0.4,19.6,0.095,0.05,0.096,0.902,0.1,'2019-20'),
@@ -11042,7 +11086,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (10997,'Cedi Osman','CLE',25,200.66,104.32616,'None','Turkey','2015','2','31',65,11,3.6,2.4,-9,0.02,0.103,0.162,0.552,0.115,'2019-20'),
     (10998,'Carsen Edwards','BOS',22,180.34,90.7184,'Purdue','USA','2019','2','33',37,3.3,1.3,0.6,-5.5,0.014,0.107,0.171,0.444,0.111,'2019-20'),
     (10999,'Carmelo Anthony','POR',36,203.2,107.954896,'Syracuse','USA','2003','1','3',58,15.4,6.3,1.5,0.6,0.036,0.145,0.214,0.525,0.063,'2019-20');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (11000,'Caris LeVert','BKN',25,198.12,92.98636,'Michigan','USA','2016','1','20',45,18.7,4.2,4.4,0.2,0.034,0.096,0.284,0.514,0.242,'2019-20'),
     (11001,'Cameron Payne','PHX',25,185.42,83.007336,'Murray State','USA','2015','1','14',8,10.9,3.9,3,23.1,0.023,0.131,0.182,0.612,0.182,'2019-20'),
     (11002,'Cameron Johnson','PHX',24,203.2,95.25432,'North Carolina','USA','2019','1','11',57,8.8,3.3,1.2,1,0.037,0.109,0.151,0.586,0.078,'2019-20'),
@@ -11293,7 +11338,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (11247,'Jordan Bell','GSW',26,203.2,97.975872,'Oregon','USA','2017','2','38',6,2.5,4,1.2,-17,0.069,0.189,0.14,0.328,0.13,'2020-21'),
     (11248,'Jordan Bone','ORL',23,187.96,81.64656,'Tennessee','USA','2019','2','57',14,4,1.7,1.3,-14.3,0.018,0.102,0.121,0.519,0.143,'2020-21'),
     (11249,'Jordan Clarkson','UTA',29,193.04,87.996848,'Missouri','USA','2014','2','46',68,18.4,4,2.5,7.8,0.025,0.117,0.286,0.549,0.149,'2020-21');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (11250,'Jeremiah Martin','CLE',25,187.96,83.91452,'Memphis','USA','Undrafted','Undrafted','Undrafted',9,2.4,0.8,0.4,-16.7,0.021,0.065,0.22,0.313,0.091,'2020-21'),
     (11251,'Jerami Grant','DET',27,203.2,95.25432,'Syracuse','USA','2014','2','39',54,22.3,4.6,2.8,-3.2,0.018,0.118,0.278,0.556,0.145,'2020-21'),
     (11252,'Jeff Teague','MIL',33,190.5,88.45044,'Wake Forest','USA','2009','1','19',55,6.7,1.6,2.4,2.8,0.016,0.074,0.174,0.562,0.182,'2020-21'),
@@ -11544,7 +11590,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (11497,'De''Aaron Fox','SAC',23,190.5,83.91452,'Kentucky','USA','2017','1','5',58,25.2,3.5,7.2,-4.5,0.016,0.085,0.304,0.565,0.326,'2020-21'),
     (11498,'Davis Bertans','WAS',28,208.28,102.0582,'None','Latvia','2011','2','42',57,11.5,2.9,0.9,2.1,0.011,0.095,0.148,0.62,0.043,'2020-21'),
     (11499,'David Nwaba','HOU',28,195.58,99.336648,'Cal Poly','USA','Undrafted','Undrafted','Undrafted',30,9.2,3.9,1,-1.3,0.055,0.108,0.163,0.557,0.07,'2020-21');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (11500,'Darius Miller','OKC',31,198.12,102.0582,'Kentucky','USA','2012','2','46',18,4.1,1.3,1.2,7.2,0.011,0.103,0.127,0.685,0.151,'2020-21'),
     (11501,'Darius Garland','CLE',21,185.42,87.089664,'Vanderbilt','USA','2019','1','5',54,17.4,2.4,6.1,-6.6,0.013,0.062,0.245,0.547,0.298,'2020-21'),
     (11502,'Darius Bazley','OKC',21,203.2,94.347136,'None','USA','2019','1','23',55,13.7,7.2,1.8,-13.1,0.027,0.193,0.218,0.491,0.091,'2020-21'),
@@ -11795,7 +11842,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (11747,'Devonte'' Graham','NOP',27,185.42,88.45044,'Kansas','USA','2018','2','34',76,11.9,2.3,4.2,0.3,0.017,0.064,0.191,0.514,0.21,'2021-22'),
     (11748,'Devontae Cacok','SAS',25,200.66,108.86208,'North Carolina-Wilmington','USA','Undrafted','Undrafted','Undrafted',15,3.1,2.8,0.4,-1.6,0.058,0.279,0.122,0.675,0.073,'2021-22'),
     (11749,'Devon Dotson','CHI',22,185.42,83.91452,'Kansas','USA','Undrafted','Undrafted','Undrafted',11,2.6,0.8,1.4,-2.4,0.011,0.105,0.156,0.538,0.283,'2021-22');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (11750,'Isaac Bonga','TOR',22,203.2,81.64656,'None','Germany','2018','2','39',15,0.8,0.5,0.3,-22.6,0.043,0.038,0.108,0.363,0.089,'2021-22'),
     (11751,'Dwight Howard','LAL',36,208.28,120.20188,'None','USA','2004','1','1',60,6.2,5.9,0.6,-5.7,0.12,0.246,0.145,0.657,0.049,'2021-22'),
     (11752,'Franz Wagner','ORL',20,208.28,99.79024,'Michigan','Germany','2021','1','8',79,15.2,4.5,2.9,-4.9,0.033,0.106,0.208,0.559,0.151,'2021-22'),
@@ -12046,7 +12094,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (11997,'Collin Sexton','CLE',23,185.42,86.18248,'Alabama','USA','2018','1','8',11,16,3.3,2.1,-5.8,0.041,0.066,0.264,0.523,0.125,'2021-22'),
     (11998,'Cole Anthony','ORL',22,190.5,83.91452,'North Carolina','USA','2020','1','15',65,16.3,5.4,5.7,-5.4,0.015,0.145,0.245,0.519,0.281,'2021-22'),
     (11999,'D.J. Wilson','TOR',26,208.28,104.779752,'Michigan','USA','2017','1','17',4,7.5,4,1.3,-16.5,0.017,0.238,0.159,0.773,0.147,'2021-22');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (12000,'Jonathan Kuminga','GSW',19,200.66,102.0582,'None','DRC','2021','1','7',70,9.3,3.3,0.9,1.9,0.047,0.139,0.227,0.6,0.087,'2021-22'),
     (12001,'Klay Thompson','GSW',32,198.12,99.79024,'Washington State','USA','2011','1','11',32,20.4,3.9,2.8,3.3,0.015,0.106,0.284,0.547,0.153,'2021-22'),
     (12002,'Jordan Clarkson','UTA',30,193.04,87.996848,'Missouri','USA','2014','2','46',79,16,3.5,2.5,8.7,0.03,0.091,0.258,0.532,0.144,'2021-22'),
@@ -12297,7 +12346,8 @@ INSERT INTO NBA_SQL_Spreadsheet VALUES
     (12247,'Michael Porter Jr.','DEN',24,208.28,98.883056,'Missouri','USA','2018','1','14',9,9.9,6.6,1.9,9.8,0.035,0.172,0.192,0.416,0.085,'2021-22'),
     (12248,'Myles Turner','IND',26,210.82,113.398,'Texas-Austin','USA','2015','1','11',42,12.9,7.1,1,-0.3,0.052,0.188,0.173,0.615,0.053,'2021-22'),
     (12249,'Nassir Little','POR',22,195.58,99.79024,'North Carolina','USA','2019','1','25',42,9.8,5.6,1.3,-0.9,0.052,0.158,0.155,0.575,0.074,'2021-22');
-INSERT INTO NBA_SQL_Spreadsheet VALUES
+INSERT INTO player_info (Column_1, player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season) 
+    VALUES
     (12250,'Norvel Pelle','UTA',29,208.28,104.779752,'Iona','USA','Undrafted','Undrafted','Undrafted',3,2,2,0,-54.2,0.15,0.158,0.152,0.6,0,'2021-22'),
     (12251,'Norman Powell','LAC',29,190.5,97.52228,'UCLA','USA','2015','2','46',45,19,3.2,2.1,-8.1,0.013,0.089,0.231,0.603,0.106,'2021-22'),
     (12252,'Nikola Vucevic','CHI',31,208.28,117.93392,'Southern California','Montenegro','2011','1','16',73,17.6,11,3.2,-1.6,0.06,0.274,0.244,0.533,0.153,'2021-22'),

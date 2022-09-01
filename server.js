@@ -19,11 +19,11 @@ const db = mysql.createConnection(
     password: '',
     database: 'NBA_SQL_Spreadsheet'
   },
-  console.log(`Connected to the classlist_db database.`)
+  console.log(`Connected to the NBA_SQL_Spreadsheet database.`)
 );
 
 // Query database
-db.query('SELECT * FROM students', function (err, results) {
+db.query('SELECT * FROM player_info', function (err, results) {
   console.log(results);
 });
 
